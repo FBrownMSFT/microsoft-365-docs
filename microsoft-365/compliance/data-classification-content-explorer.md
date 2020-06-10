@@ -66,7 +66,7 @@ The account you use to access content explorer must be in one or both of the rol
 
 You can also assign either or both of the roles to a custom role group to tailor access to content explorer.
 
-A Global admin, Compliance admin, or Data admin can assign the necessary Content Explorer List Viewer, and Content Explorer Content Viewer role group membership.
+A Global admin, Compliance admin, or Data admin can assign the necessary Content Explorer List Viewer, and Content Explorer Content Viewer role group membership. These permissions are assigned in the Office 365 Security & Compliance Center. Which is accessed by navigatiating to Compliance Center, Permissions and clicking on "To view and manage roles in Office 365, please go [here](https://protection.office.com/permissions)."
 
 ## Content explorer
 
